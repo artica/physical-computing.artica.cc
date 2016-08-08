@@ -1,0 +1,15 @@
+# Site settings
+title:       Physical Computing
+author:      Artica
+description: "Physical Computing - P2020 R&D Project Log Book"
+baseurl:     "" 
+url:         "https://physical-computing.artica.cc" 
+
+# Social Links
+email:            info@artica.cc
+twitter_username: artica_cc
+github_username:  artica
+
+# Build settings
+markdown: kramdown
+permalink: pretty
