@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Website"
+date:   2016-08-08 12:00:00
+---
+
+Hello world!
+
+This mini website for the project is put together to start sharing the projects' public communication.

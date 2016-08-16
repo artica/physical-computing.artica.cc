@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "P2020 Acceptance"
+date:   2016-05-30 12:00:00
+---
+
+Done submitting the legal requirements to officialize the acceptance of the project.
