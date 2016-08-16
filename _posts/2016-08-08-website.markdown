@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Website"
+title:  "Website goes live!"
 date:   2016-08-08 12:00:00
 ---
 
