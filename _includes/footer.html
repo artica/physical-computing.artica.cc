@@ -4,16 +4,20 @@
       <div class="footer-col footer-col-1">
         <div class="social-media-list">
           {% if site.email %}
-            <a href="mailto:{{ site.email }}">Email</a>
+            <a href="mailto:{{ site.email }}"><span class="fa fa-envelope"></span></a>
           {% endif %}
 
           {% if site.github_username %}
-            <a href="https://github.com/{{ site.github_username }}">Github</a>
+            <a href="https://github.com/{{ site.github_username }}"><span class="fa fa-github"></span></a>
           {% endif %}
 
           {% if site.twitter_username %}
-            <a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a>
+            <a href="https://twitter.com/{{ site.twitter_username }}"><span class="fa fa-twitter"></span></a>
           {% endif %}
+		  
+
+            <a href="https://www.facebook.com/artica.cc/"><span class="fa fa-facebook"></span></a>
+            <a href="https://www.youtube.com/channel/UC_SK27zLYcoPh27UTATRQNQ"><span class="fa fa-youtube"></span></a>
         </div>
       </div>
 	  <div class="footer-col footer-col-2">

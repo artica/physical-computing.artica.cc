@@ -2,6 +2,7 @@
 layout: post
 title:  "Kickoff Meeting"
 date:   2016-06-15 12:00:00
+categories: project
 ---
 
 Kickoff meeting of the project. We go through what was originally submitted, assigning a resposible person to each section, listing tasks and deadlines and figuring out how well are we already following what was originally planned.

@@ -2,6 +2,7 @@
 layout: post
 title:  "Website goes live!"
 date:   2016-08-08 12:00:00
+categories: project
 ---
 
 Hello world!

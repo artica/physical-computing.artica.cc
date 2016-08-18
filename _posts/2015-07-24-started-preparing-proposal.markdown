@@ -2,6 +2,7 @@
 layout: post
 title:  "Started preparing proposal"
 date:   2015-07-24 11:30:00
+categories: project
 ---
 
 On July 24th of 2015 we had our first planning meeting to prepare a project plan for the P2020 submission of an individual research and development 2 year plan for innovating and testing our technology aiming to improve the competitiveness in the creative industries market.
