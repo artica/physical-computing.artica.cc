@@ -53,3 +53,22 @@
   text-align: right;
   padding-left: 0.5em;
 }
+
+
+.footer-logos {
+  display: inline;
+  clear: both;
+  vertical-align: top;
+  list-style: none;
+  margin-left: 0;
+  white-space: nowrap;
+  a {
+	font-size: 2em;
+	display: inline;
+	float: none;
+    img {
+	display: inline;
+	float: none;
+	}
+  }
+}
